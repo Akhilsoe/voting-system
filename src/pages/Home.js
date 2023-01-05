@@ -8,7 +8,6 @@ import Newsletter from '../components/Newsletter';
 
 
 function Home() {
-    console.log("hereee")
   return (
     <div>
       <Navbar />
