@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Cards = () => {
+const About = () => {
   return (
     <div name='about' className='w-full py-[10rem] px-4 bg-white'>
       <div className='max-w-[1240px] mx-auto'>
@@ -16,4 +16,4 @@ const Cards = () => {
   );
 };
 
-export default Cards;
+export default About;
